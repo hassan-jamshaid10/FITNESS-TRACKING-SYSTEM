@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <div className="footer-content">
-        <p>© 2024 MyWebsite</p>
+        <p>© 2024 <b>FITNESS TRACKING SYSTEM</b></p>
         <div className="social-icons">
           <a href="https://github.com/yourprofile" target="_blank" rel="noopener noreferrer">
             <FaGithub />
